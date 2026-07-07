@@ -2,7 +2,7 @@
 Developed for Allied Software Engineers.
 
 ## Live Deployment Link
-👉 **[Deployment URL Will Be Placed Here]**
+👉[https://laibamukhtar176-spec.github.io/project-task-management/]
 
 ## Key Features Implemented
 - **Login Panel:** Complete authentication verification layout.
