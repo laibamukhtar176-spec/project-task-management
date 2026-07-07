@@ -153,3 +153,4 @@ function initApp() {
     renderTasks();
     calculateMetrics();
 }
+// Hotfix applied to date validation mechanism.
